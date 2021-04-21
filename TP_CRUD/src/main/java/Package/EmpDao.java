@@ -16,7 +16,7 @@ public class EmpDao {
         String dbName = 
         "db_swii5_tp_01?useTimezone=true&serverTimezone=America/Sao_Paulo"; 
         String dbUsername = "root"; 
-        String dbPassword = "e19961104"; 
+        String dbPassword = "xxxx"; 
         
         Class.forName(dbDriver); 
         con = DriverManager.getConnection(dbURL + dbName, dbUsername, dbPassword); 
