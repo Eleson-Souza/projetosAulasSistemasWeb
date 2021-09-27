@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = TrabalhoPratico01
+build_property.ProjectDir = G:\Meu Drive\Faculdade ADS - IFSP Cubatão\6º Semestre\Sistemas Web II\ASP.Net Core\TPS\tp-01-lite\

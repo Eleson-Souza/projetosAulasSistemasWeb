@@ -1,0 +1,46 @@
+[
+  {
+    "nome": "Orgulho e Preconceito",
+    "autores": [
+      { "nome": "Jane Austen", "email": "too@mail.com", "genero": "F" },
+      { "nome": "George Orwell", "email": "too@mail.com", "genero": "M" }
+    ],
+    "quantidade": 0,
+    "price": 0
+  },
+  {
+    "nome": "1984",
+    "autores": [
+      { "nome": "George Orwell", "email": "too@mail.com", "genero": "M" },
+      { "nome": "Miguel de Cervantes", "email": "too@mail.com", "genero": "F" }
+    ],
+    "quantidade": 1,
+    "price": 2
+  },
+  {
+    "nome": "Dom Quixote de la Mancha",
+    "autores": [
+      { "nome": "Miguel de Cervantes", "email": "too@mail.com", "genero": "F" },
+      {
+        "nome": "Antoine de Saint-Exupéry",
+        "email": "too@mail.com",
+        "genero": "M"
+      }
+    ],
+    "quantidade": 2,
+    "preco": 4
+  },
+  {
+    "nome": "O Pequeno Príncipe",
+    "autores": [
+      {
+        "nome": "Antoine de Saint-Exupéry",
+        "email": "too@mail.com",
+        "genero": "M"
+      },
+      { "nome": "Machado de Assis", "email": "too@mail.com", "genero": "F" }
+    ],
+    "quantidade": 3,
+    "price": 1
+  }
+]

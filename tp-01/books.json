@@ -1,0 +1,70 @@
+[
+  {
+    "nome": "O poder da ação: Faça sua vida ideal sair do papel",
+    "autores": [
+      {
+        "nome": "Paulo Vieira",
+        "email": "author@mail.com",
+        "genero": "M"
+      },
+      {
+        "nome": "Ton Ruys",
+        "email": "author@mail.com",
+        "genero": "M"
+      }
+    ],
+    "quantidade": 2,
+    "price": 0
+  },
+  {
+    "nome": "Torto Arado",
+    "autores": [
+      {
+        "nome": "Itamar Vieira Junior",
+        "email": "author@mail.com",
+        "genero": "M"
+      },
+      {
+        "nome": "William Sanches",
+        "email": "author@mail.com",
+        "genero": "M"
+      }
+    ],
+    "quantidade": 2,
+    "price": 59.99
+  },
+  {
+    "nome": "O Homem Mais Rico da Babilônia",
+    "autores": [
+      {
+        "nome": "Clason,George S.",
+        "email": "author@mail.com",
+        "genero": "M"
+      },
+      {
+        "nome": "Lewis Carroll",
+        "email": "author@mail.com",
+        "genero": "M"
+      }
+    ],
+    "quantidade": 3,
+    "preco": 24.90
+  },
+  {
+    "nome": "Sonho Grande",
+    "autores": [
+      {
+        "nome": "Cristine Correa",
+        "email": "author@mail.com",
+        "genero": "F"
+      },
+      {
+        "nome": "Napoleon Hill",
+        "email": "author@mail.com",
+        "genero": "M"
+      }
+    ],
+    "quantidade": 5,
+    "price": 37.90
+  }
+]
