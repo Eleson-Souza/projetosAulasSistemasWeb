@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N3zTWDMlr/eSDf2jCNQ2E8keaEKNxq+rjKXuBlLXD29WWrRFywbicsrwrqzU2za+wZX7rJLAyez8eNa9MxwQzA==",
+  "dgSpecHash": "7vivGFUdXm6yowu6OAfT/AyrPBUssYoUVgLBphZPSARsbiGPabkiSZBeCgdh42dak5OdcIfOwNzD5HUNA06bEg==",
   "success": true,
-  "projectFilePath": "G:\\Meu Drive\\Faculdade ADS - IFSP Cubatão\\6º Semestre\\Sistemas Web II\\ASP.Net Core\\TPS\\tp-01-lite\\TrabalhoPratico01.csproj",
+  "projectFilePath": "G:\\Meu Drive\\Faculdade ADS - IFSP Cubatão\\6º Semestre\\Sistemas Web II\\ASP.Net Core\\projetosAulasSistemasWeb\\tp-01\\TrabalhoPratico01.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC3\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\2.2.0\\microsoft.aspnetcore.connections.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\PC3\\.nuget\\packages\\microsoft.aspnetcore.hosting\\2.2.7\\microsoft.aspnetcore.hosting.2.2.7.nupkg.sha512",

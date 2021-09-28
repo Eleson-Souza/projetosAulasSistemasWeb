@@ -10,7 +10,7 @@ namespace TrabalhoPratico01
   {
     public void Configure(IApplicationBuilder app)
     {
-      var applicationRouter = new RotasDaAplicacao();
+      var applicationRouter = new RoutesApplication();
 
       app.Run(applicationRouter.Routing);
     }

@@ -6,25 +6,25 @@ using Newtonsoft.Json;
 
 namespace TrabalhoPratico01
 {
-  public class RotasDaAplicacao
+  public class RoutesApplication
   {
     private Dictionary<string, Func<HttpContext, Task>> Routes;
 
-    public RotasDaAplicacao()
+    public RoutesApplication()
     {
-      this.ConfigurarRotas();
+      this.ConfigRoutes();
     }
 
-    private void ConfigurarRotas()
+    private void ConfigRoutes()
     {
       this.Routes = new Dictionary<string, Func<HttpContext, Task>>();
 
       ControllerBook controllerBook = new ControllerBook();
 
-      this.Routes.Add("/livro/NomeLivro", controllerBook.BookName);
-      this.Routes.Add("/livro/ToString", controllerBook.ToStringResult);
-      this.Routes.Add("/livro/NomesAutores", controllerBook.AuthorsNames);
-      this.Routes.Add("/livro/ApresentarLivro", controllerBook.bookPresentation);
+      this.Routes.Add("/book/BookName", controllerBook.BookName);
+      this.Routes.Add("/book/ToString", controllerBook.ToStringResult);
+      this.Routes.Add("/book/AuthorsNames", controllerBook.AuthorsNames);
+      this.Routes.Add("/book/BookPresentation", controllerBook.bookPresentation);
     }
 
     public Task Routing(HttpContext httpContext)

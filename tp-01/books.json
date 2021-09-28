@@ -1,70 +1,70 @@
 [
   {
-    "nome": "O poder da ação: Faça sua vida ideal sair do papel",
-    "autores": [
+    "name": "O poder da ação: Faça sua vida ideal sair do papel",
+    "authors": [
       {
-        "nome": "Paulo Vieira",
+        "name": "Paulo Vieira",
         "email": "author@mail.com",
-        "genero": "M"
+        "gender": "M"
       },
       {
-        "nome": "Ton Ruys",
+        "name": "Ton Ruys",
         "email": "author@mail.com",
-        "genero": "M"
+        "gender": "M"
       }
     ],
-    "quantidade": 2,
+    "quantity": 2,
     "price": 0
   },
   {
-    "nome": "Torto Arado",
-    "autores": [
+    "name": "Torto Arado",
+    "authors": [
       {
-        "nome": "Itamar Vieira Junior",
+        "name": "Itamar Vieira Junior",
         "email": "author@mail.com",
-        "genero": "M"
+        "gender": "M"
       },
       {
-        "nome": "William Sanches",
+        "name": "William Sanches",
         "email": "author@mail.com",
-        "genero": "M"
+        "gender": "M"
       }
     ],
-    "quantidade": 2,
-    "price": 59.99
+    "quantity": 2,
+    "price": 59
   },
   {
-    "nome": "O Homem Mais Rico da Babilônia",
-    "autores": [
+    "name": "O Homem Mais Rico da Babilônia",
+    "authors": [
       {
-        "nome": "Clason,George S.",
+        "name": "Clason,George S.",
         "email": "author@mail.com",
-        "genero": "M"
+        "gender": "M"
       },
       {
-        "nome": "Lewis Carroll",
+        "name": "Lewis Carroll",
         "email": "author@mail.com",
-        "genero": "M"
+        "gender": "M"
       }
     ],
-    "quantidade": 3,
-    "preco": 24.90
+    "quantity": 3,
+    "price": 24
   },
   {
-    "nome": "Sonho Grande",
-    "autores": [
+    "name": "Sonho Grande",
+    "authors": [
       {
-        "nome": "Cristine Correa",
+        "name": "Cristine Correa",
         "email": "author@mail.com",
-        "genero": "F"
+        "gender": "F"
       },
       {
-        "nome": "Napoleon Hill",
+        "name": "Napoleon Hill",
         "email": "author@mail.com",
-        "genero": "M"
+        "gender": "M"
       }
     ],
-    "quantidade": 5,
-    "price": 37.90
+    "quantity": 5,
+    "price": 37
   }
 ]

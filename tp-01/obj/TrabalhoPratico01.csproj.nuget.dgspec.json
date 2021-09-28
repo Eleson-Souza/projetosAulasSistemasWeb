@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Meu Drive\\Faculdade ADS - IFSP Cubatão\\6º Semestre\\Sistemas Web II\\ASP.Net Core\\TPS\\tp-01-lite\\TrabalhoPratico01.csproj": {}
+    "G:\\Meu Drive\\Faculdade ADS - IFSP Cubatão\\6º Semestre\\Sistemas Web II\\ASP.Net Core\\projetosAulasSistemasWeb\\tp-01\\TrabalhoPratico01.csproj": {}
   },
   "projects": {
-    "G:\\Meu Drive\\Faculdade ADS - IFSP Cubatão\\6º Semestre\\Sistemas Web II\\ASP.Net Core\\TPS\\tp-01-lite\\TrabalhoPratico01.csproj": {
+    "G:\\Meu Drive\\Faculdade ADS - IFSP Cubatão\\6º Semestre\\Sistemas Web II\\ASP.Net Core\\projetosAulasSistemasWeb\\tp-01\\TrabalhoPratico01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Meu Drive\\Faculdade ADS - IFSP Cubatão\\6º Semestre\\Sistemas Web II\\ASP.Net Core\\TPS\\tp-01-lite\\TrabalhoPratico01.csproj",
+        "projectUniqueName": "G:\\Meu Drive\\Faculdade ADS - IFSP Cubatão\\6º Semestre\\Sistemas Web II\\ASP.Net Core\\projetosAulasSistemasWeb\\tp-01\\TrabalhoPratico01.csproj",
         "projectName": "TrabalhoPratico01",
-        "projectPath": "G:\\Meu Drive\\Faculdade ADS - IFSP Cubatão\\6º Semestre\\Sistemas Web II\\ASP.Net Core\\TPS\\tp-01-lite\\TrabalhoPratico01.csproj",
+        "projectPath": "G:\\Meu Drive\\Faculdade ADS - IFSP Cubatão\\6º Semestre\\Sistemas Web II\\ASP.Net Core\\projetosAulasSistemasWeb\\tp-01\\TrabalhoPratico01.csproj",
         "packagesPath": "C:\\Users\\PC3\\.nuget\\packages\\",
-        "outputPath": "G:\\Meu Drive\\Faculdade ADS - IFSP Cubatão\\6º Semestre\\Sistemas Web II\\ASP.Net Core\\TPS\\tp-01-lite\\obj\\",
+        "outputPath": "G:\\Meu Drive\\Faculdade ADS - IFSP Cubatão\\6º Semestre\\Sistemas Web II\\ASP.Net Core\\projetosAulasSistemasWeb\\tp-01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
